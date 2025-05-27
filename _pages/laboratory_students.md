@@ -34,6 +34,9 @@ Doctoral Students
 * Zeng You
 * Shuhai Zhang
 * Shijian Zheng
+* Jinwu Hu
+* Yuxin Gao
+* Yufeng Wang
 
 Graduate Students
 --------
