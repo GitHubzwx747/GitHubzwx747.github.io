@@ -31,6 +31,9 @@ Doctoral Students
 * Yifan Yang
 * Hui Luo
 * Kai Zhou
+* Zeng You
+* Shuhai Zhang
+* Shijian Zheng
 
 Graduate Students
 --------
@@ -64,8 +67,6 @@ Graduate Students
 * Xu Liu
 * Yucheng Luo
 * Zhenliang Li
-* Zeng You
-* Shuhai Zhang
 * Huantong Li
 * Lizhao Liu
 * Weitao Deng
@@ -78,7 +79,6 @@ Graduate Students
 * Kunyang Lin
 * Xinyu Sun
 * Dikai Xu
-* Shijian Zheng
 * Zhuokun Chen
 * Jiahao Yang
 * Dong Liu
