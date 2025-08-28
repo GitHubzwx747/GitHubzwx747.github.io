@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Online_Transfer.png"
 teaser : 
-authors: "Qingyao Wu, Hanrui Wu, Xiaoming Zhou, Mingkui Tan, Yonghui Xu, Yuguang Yan, and Tianyong Hao"
+authors: "Qingyao Wu, Hanrui Wu, Xiaoming Zhou, **Mingkui Tan**, Yonghui Xu, Yuguang Yan, and Tianyong Hao"
 bibtex: Online_Transfer.txt
 uri: Online_Transfer.pdf
 arxiv: 

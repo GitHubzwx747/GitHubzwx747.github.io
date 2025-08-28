@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Accurate_and.png"
 teaser : 
-authors: "Yong Guo, Yin Zheng, Mingkui Tan, Qi Chen, Zhipeng Li, Jian Chen, Peilin Zhao, Junzhou Huang"
+authors: "Yong Guo, Yin Zheng, **Mingkui Tan**, Qi Chen, Zhipeng Li, Jian Chen, Peilin Zhao, Junzhou Huang"
 bibtex: Towards_Accurate_and.txt
 uri: Towards_Accurate_and.pdf
 arxiv: https://arxiv.org/abs/2102.10301

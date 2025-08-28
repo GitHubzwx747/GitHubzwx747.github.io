@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Breaking_the.png"
 teaser : 
-authors: "Yong Guo, Yaofo Chen, Yin Zheng, Peilin Zhao, Jian Chen, Junzhou Huang, Mingkui Tan"
+authors: "Yong Guo, Yaofo Chen, Yin Zheng, Peilin Zhao, Jian Chen, Junzhou Huang, **Mingkui Tan**"
 bibtex: Breaking_the.txt
 uri: Breaking_the.pdf
 arxiv: https://arxiv.org/abs/2007.07197

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Calibrate.png"
 teaser : 
-authors: "Junde Wu, Yu Zhang, Huihui Fang, Lixin Duan, Mingkui Tan, Weihua Yang"
+authors: "Junde Wu, Yu Zhang, Huihui Fang, Lixin Duan, **Mingkui Tan**, Weihua Yang"
 bibtex: Calibrate.txt
 uri: Calibrate.pdf
 arxiv: https://arxiv.org/abs/2208.03016

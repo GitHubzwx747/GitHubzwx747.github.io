@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Cross-ray.png"
 teaser :
-authors: "Yifan Yang, Shuhai Zhang, Zixiong Huang, Yubing Zhang, Mingkui Tan "
+authors: "Yifan Yang, Shuhai Zhang, Zixiong Huang, Yubing Zhang, **Mingkui Tan** "
 bibtex: Cross-ray.txt
 uri: Cross-ray.pdf
 arxiv: https://arxiv.org/abs/2307.08093

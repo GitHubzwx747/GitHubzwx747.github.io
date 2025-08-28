@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Pareto-Aware.png"
 teaser :
-authors: "Yong Guo, Yaofo Chen, Yin Zheng, Qi Chen, Peilin Zhao, Junzhou Huang, Jian Chen, Mingkui Tan"
+authors: "Yong Guo, Yaofo Chen, Yin Zheng, Qi Chen, Peilin Zhao, Junzhou Huang, Jian Chen, **Mingkui Tan**"
 bibtex: Pareto-Aware.txt
 uri: Pareto-Aware.pdf
 arxiv: https://arxiv.org/abs/2210.07634

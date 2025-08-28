@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Blind.png"
 teaser :
-authors: "Dong Gong, Mingkui Tan, Yanning Zhang, Anton Van den Hengel, Qinfeng Shi"
+authors: "Dong Gong, **Mingkui Tan**, Yanning Zhang, Anton Van den Hengel, Qinfeng Shi"
 bibtex: Blind.txt
 uri: Blind.pdf
 arxiv: 

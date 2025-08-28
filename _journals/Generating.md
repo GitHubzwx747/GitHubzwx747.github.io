@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Generating.png"
 teaser : 
-authors: "Peihao Chen, Yang Zhang, Mingkui Tan, Hongdong Xiao, Deng Huang, and Chuang Gan"
+authors: "Peihao Chen, Yang Zhang, **Mingkui Tan**, Hongdong Xiao, Deng Huang, and Chuang Gan"
 bibtex: Generating.txt
 uri: Generating.pdf
 arxiv:

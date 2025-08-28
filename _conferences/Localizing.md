@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Localizing.png"
 teaser :
-authors: "Xu Sun, Yanwu Xu, Mingkui Tan, Huazhu Fu, Wei Zhao, Tianyuan You, Jiang Liu"
+authors: "Xu Sun, Yanwu Xu, **Mingkui Tan**, Huazhu Fu, Wei Zhao, Tianyuan You, Jiang Liu"
 bibtex: Localizing.txt
 uri: Localizing.pdf
 arxiv: 

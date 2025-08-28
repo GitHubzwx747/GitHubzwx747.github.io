@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Visual_Grounding.png"
 teaser : 
-authors: "Chaorui Deng, Qi Wu, Qingyao Wu, Fuyuan Hu, Fan Lyu, Mingkui Tan"
+authors: "Chaorui Deng, Qi Wu, Qingyao Wu, Fuyuan Hu, Fan Lyu, **Mingkui Tan**"
 bibtex: Visual_Grounding.txt
 uri: Visual_Grounding.pdf
 arxiv: 

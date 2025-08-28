@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Distinguishing.png"
 teaser :
-authors: " Yifan Yang, Huihui Fang,  Qing Du,  Fei Li,  Xiulan Zhang,  Mingkui Tan, Yanwu Xu"
+authors: " Yifan Yang, Huihui Fang,  Qing Du,  Fei Li,  Xiulan Zhang,  **Mingkui Tan**, Yanwu Xu"
 bibtex: Distinguishing.txt
 uri: Distinguishing.pdf
 arxiv: 

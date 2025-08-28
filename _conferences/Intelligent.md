@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Intelligent.png"
 teaser : 
-authors: "Qi Chen, Qi Wu, Rui Tang, Yuhan Wang, Shuai Wang, Mingkui Tan"
+authors: "Qi Chen, Qi Wu, Rui Tang, Yuhan Wang, Shuai Wang, **Mingkui Tan**"
 bibtex: Intelligent.txt
 uri: Intelligent.pdf
 supp: Intelligent_Supplementary.pdf

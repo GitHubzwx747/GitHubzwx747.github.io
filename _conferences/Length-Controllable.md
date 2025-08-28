@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Length-Controllable.png"
 teaser : 
-authors: "Chaorui Deng, Ning Ding, Mingkui Tan, Qi Wu"
+authors: "Chaorui Deng, Ning Ding, **Mingkui Tan**, Qi Wu"
 bibtex: Length-Controllable.txt
 uri: Length-Controllable.pdf
 arxiv: https://arxiv.org/abs/2007.09580

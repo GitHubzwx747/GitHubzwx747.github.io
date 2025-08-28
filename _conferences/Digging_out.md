@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Digging_out.png"
 teaser :
-authors: "Zhiquan Wen, Yaowei Wang, Mingkui Tan, Qingyao Wu, QiWu"
+authors: "Zhiquan Wen, Yaowei Wang, **Mingkui Tan**, Qingyao Wu, QiWu"
 bibtex: Digging_out.txt
 uri: Digging_out.pdf
 arxiv:

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Face_anti-spoofing.png"
 teaser :
-authors: "Daiyuan Li, Guo Chen, Xixian Wu, Zitong Yu, Mingkui Tan"
+authors: "Daiyuan Li, Guo Chen, Xixian Wu, Zitong Yu, **Mingkui Tan**"
 bibtex: Face_anti-spoofing.txt
 uri: Face_anti-spoofing.pdf
 arxiv: 

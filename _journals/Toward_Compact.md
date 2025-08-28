@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Toward_Compact.png"
 teaser :
-authors: "Hui Luo, Zhuangwei Zhuang, Yuanqing Li, Mingkui Tan, Cen Chen, Jianlin Zhang"
+authors: "Hui Luo, Zhuangwei Zhuang, Yuanqing Li, **Mingkui Tan**, Cen Chen, Jianlin Zhang"
 bibtex: Toward_Compact.txt
 uri: Toward_Compact.pdf
 arxiv: 

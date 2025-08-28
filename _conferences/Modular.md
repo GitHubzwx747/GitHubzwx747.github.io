@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Modular.png"
 teaser : 
-authors: "Yihan Zheng, Zhiquan Wen, Mingkui Tan, Runhao Zeng, Qi Chen, Yaowei Wang, Qi Wu"
+authors: "Yihan Zheng, Zhiquan Wen, **Mingkui Tan**, Runhao Zeng, Qi Chen, Yaowei Wang, Qi Wu"
 bibtex: Modular.txt
 uri: Modular.pdf
 arxiv: 

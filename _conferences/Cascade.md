@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Cascade.png"
 teaser :
-authors: "Fen Liu, Guanghui Xu, Qi Wu, Qing Du, Wei Jia, Mingkui Tan"
+authors: "Fen Liu, Guanghui Xu, Qi Wu, Qing Du, Wei Jia, **Mingkui Tan**"
 bibtex: Cascade.txt
 uri: Cascade.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Attention.png"
 teaser :
-authors: "Shihao Zhang, Huazhu Fu, Yuguang Yan, Yubing Zhang, Qingyao Wu, Ming Yang, Mingkui Tan, Yanwu Xu"
+authors: "Shihao Zhang, Huazhu Fu, Yuguang Yan, Yubing Zhang, Qingyao Wu, Ming Yang, **Mingkui Tan**, Yanwu Xu"
 bibtex: Attention.txt
 uri: Attention.pdf
 arxiv: https://arxiv.org/abs/1907.12930

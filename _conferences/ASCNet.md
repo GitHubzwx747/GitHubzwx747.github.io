@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "ASCNet.png"
 teaser :
-authors: "Deng Huang, Wenhao Wu, Weiwen Hu, Xu Liu, Dongliang He, Zhihua Wu, Xiangmiao Wu, Mingkui Tan"
+authors: "Deng Huang, Wenhao Wu, Weiwen Hu, Xu Liu, Dongliang He, Zhihua Wu, Xiangmiao Wu, **Mingkui Tan**"
 bibtex: ASCNet.txt
 uri: ASCNet.pdf
 arxiv: https://arxiv.org/abs/2106.02342

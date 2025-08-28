@@ -8,7 +8,7 @@ city:
 state: ""
 thumbnail: "Structured_Binary.png"
 teaser :
-authors: "Bohan Zhuang, Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid"
+authors: "Bohan Zhuang, Chunhua Shen, **Mingkui Tan**, Lingqiao Liu, Ian Reid"
 bibtex: Structured_Binary.txt
 uri: Structured_Binary.pdf
 arxiv: https://arxiv.org/abs/1909.09934

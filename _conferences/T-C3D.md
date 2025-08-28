@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "T-C3D.png"
 teaser : 
-authors: "Kun Liu, Wu Liu, Chuang Gan, Mingkui Tan, Huadong Ma"
+authors: "Kun Liu, Wu Liu, Chuang Gan, **Mingkui Tan**, Huadong Ma"
 bibtex: T-C3D.txt
 uri: T-C3D.pdf
 arxiv: 

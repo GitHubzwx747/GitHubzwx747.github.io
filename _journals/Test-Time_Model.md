@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: Test-Time_Model.png
 teaser : 
-authors: "Zhiquan Wen, Shuaicheng Niu, Ge Li, Qingyao Wu, Mingkui Tan, Qi Wu"
+authors: "Zhiquan Wen, Shuaicheng Niu, Ge Li, Qingyao Wu, **Mingkui Tan**, Qi Wu"
 bibtex: Test-Time_Model.txt
 uri: Test-Time_Model.pdf
 arxiv: 

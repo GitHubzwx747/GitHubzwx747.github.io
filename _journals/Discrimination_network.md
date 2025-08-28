@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Discrimination_network.png"
 teaser :
-authors: "Jing Liu, Bohan Zhuang, Zhuangwei Zhuang, Yong Guo, Junzhou Huang, Jinhui Zhu, Mingkui Tan "
+authors: "Jing Liu, Bohan Zhuang, Zhuangwei Zhuang, Yong Guo, Junzhou Huang, Jinhui Zhu, **Mingkui Tan** "
 bibtex: Discrimination_network.txt
 uri: Discrimination_network.pdf
 arxiv: https://arxiv.org/abs/2001.01050

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Multi-scale.png"
 teaser :
-authors: "Zhen Qiu, Yifan Zhang, Fei Li, Xiulan Zhang, Yanwu Xu, and Mingkui Tan"
+authors: "Zhen Qiu, Yifan Zhang, Fei Li, Xiulan Zhang, Yanwu Xu, and **Mingkui Tan**"
 bibtex: Multi-scale.txt
 uri: Multi-scale.pdf
 arxiv: https://arxiv.org/abs/2208.12157

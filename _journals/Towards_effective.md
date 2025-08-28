@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_effective.png"
 teaser : 
-authors: "Zheng Xie, Zhiquan Wen, Yaowei Wang,  Qingyao Wu, Mingkui Tan"
+authors: "Zheng Xie, Zhiquan Wen, Yaowei Wang,  Qingyao Wu, **Mingkui Tan**"
 bibtex: Towards_effective.txt
 uri: Towards_effective.pdf
 arxiv: 

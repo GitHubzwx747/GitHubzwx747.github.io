@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Intra.png"
 teaser : 
-authors: "Xingxin He, Leyuan Fang, Mingkui Tan, and Xiangdong Chen."
+authors: "Xingxin He, Leyuan Fang, **Mingkui Tan**, and Xiangdong Chen."
 bibtex: Intra.txt
 uri: Intra.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Learning_defense.png"
 teaser : 
-authors: "Jincheng Li, Shuhai Zhang, Jiezhang Cao, Mingkui Tan"
+authors: "Jincheng Li, Shuhai Zhang, Jiezhang Cao, **Mingkui Tan**"
 bibtex: Learning_defense.txt
 uri: Learning_defense.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "R-GAN.png"
 teaser :
-authors: "Yanyuan Qiao, Qi Chen, Chaorui Deng, Ning Ding,  Yuankai Qi,  Mingkui Tan, Xincheng Ren, Qi Wu"
+authors: "Yanyuan Qiao, Qi Chen, Chaorui Deng, Ning Ding,  Yuankai Qi,  **Mingkui Tan**, Xincheng Ren, Qi Wu"
 bibtex: R-GAN.txt
 uri: R-GAN.pdf
 arxiv: 

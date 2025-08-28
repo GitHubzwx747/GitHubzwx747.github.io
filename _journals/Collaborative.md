@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Collaborative.png"
 teaser : 
-authors: "Yifan Zhang, Ying Wei, Qingyao Wu, Peilin Zhao, Shuaicheng Niu, Junzhou Huang, Mingkui Tan"
+authors: "Yifan Zhang, Ying Wei, Qingyao Wu, Peilin Zhao, Shuaicheng Niu, Junzhou Huang, **Mingkui Tan**"
 bibtex: Collaborative.txt
 uri: Collaborative.pdf
 arxiv: https://arxiv.org/abs/2007.07222

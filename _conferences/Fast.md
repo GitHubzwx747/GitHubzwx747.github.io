@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Fast.png"
 teaser : 
-authors: "Wen Li, Dengxin Dai, Mingkui Tan, Dong Xu, Luc Van Gool"
+authors: "Wen Li, Dengxin Dai, **Mingkui Tan**, Dong Xu, Luc Van Gool"
 bibtex: Fast.txt
 uri: Fast.pdf
 arxiv: 

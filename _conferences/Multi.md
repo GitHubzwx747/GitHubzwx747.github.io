@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Multi.png"
 teaser :
-authors: "Xiang Zhang, Lina Yao, Chaoran Huang, Sen Wang, Mingkui Tan, Guodong Long, Can Wang"
+authors: "Xiang Zhang, Lina Yao, Chaoran Huang, Sen Wang, **Mingkui Tan**, Guodong Long, Can Wang"
 bibtex: Multi.txt
 uri: Multi.pdf
 arxiv: https://arxiv.org/abs/1804.05493

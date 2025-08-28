@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Comprehensive.png"
 teaser : 
-authors: "Yongliang Chen, Jinghui Zhong, Mingkui Tan"
+authors: "Yongliang Chen, Jinghui Zhong, **Mingkui Tan**"
 bibtex: Comprehensive.txt
 uri: Comprehensive.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Optic.png"
 teaser : 
-authors: "Pengshuai Yin, Guanghui Xu, Jingwen Wang, Yuguang Yan, Huaqing Min, Qingyao Wu, Mingkui Tan"
+authors: "Pengshuai Yin, Guanghui Xu, Jingwen Wang, Yuguang Yan, Huaqing Min, Qingyao Wu, **Mingkui Tan**"
 bibtex: Optic.txt
 uri: Optic.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Graph.png"
 teaser : 
-authors: "Dan Wei, Shutao Li, Mingkui Tan"
+authors: "Dan Wei, Shutao Li, **Mingkui Tan**"
 bibtex: Graph.txt
 uri: Graph.pdf
 arxiv: 

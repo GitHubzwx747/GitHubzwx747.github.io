@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Training_Quantized.png"
 teaser : 
-authors: "Bohan Zhuang, Lingqiao Liu, Mingkui Tan, Chunhua Shen, Ian Reid"
+authors: "Bohan Zhuang, Lingqiao Liu, **Mingkui Tan**, Chunhua Shen, Ian Reid"
 bibtex: Training_Quantized.txt
 uri: Training_Quantized.pdf
 arxiv: 

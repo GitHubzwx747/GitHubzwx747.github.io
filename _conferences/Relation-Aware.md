@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Relation-Aware.png"
 teaser : 
-authors: "Ke Xu, Yifan Zhang, Deheng Ye, Peilin Zhao, Mingkui Tan"
+authors: "Ke Xu, Yifan Zhang, Deheng Ye, Peilin Zhao, **Mingkui Tan**"
 bibtex: Relation-Aware.txt
 uri: Relation-Aware.pdf
 arxiv: 

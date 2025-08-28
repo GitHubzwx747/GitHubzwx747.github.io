@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Downscaling.png"
 teaser :
-authors: "Haokun Li, Jing Liu, Liancheng Jia, Yun Liang, Yaowei Wang, and Mingkui Tan"
+authors: "Haokun Li, Jing Liu, Liancheng Jia, Yun Liang, Yaowei Wang, and **Mingkui Tan**"
 bibtex: Downscaling.txt
 uri: Downscaling.pdf
 arxiv: 

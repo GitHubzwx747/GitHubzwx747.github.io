@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Guided.png"
 teaser :
-authors: "Shihao Zhang, Yuguang Yan, Pengshuai Yin, Zhen Qiu, Wei Zhao, Guiping Cao, Wan Chen, Jin Yuan, Risa Higashita, Qingyao Wu, Mingkui Tan, Jiang Liu"
+authors: "Shihao Zhang, Yuguang Yan, Pengshuai Yin, Zhen Qiu, Wei Zhao, Guiping Cao, Wan Chen, Jin Yuan, Risa Higashita, Qingyao Wu, **Mingkui Tan**, Jiang Liu"
 bibtex: Guided.txt
 uri: Guided.pdf
 arxiv:

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Online_Transfer.png"
 teaser : 
-authors: "Mingkui Tan, Ivor W. Tsang, Li Wang"
+authors: "**Mingkui Tan**, Ivor W. Tsang, Li Wang"
 bibtex: Towards_Ultrahigh.txt
 uri: Towards_Ultrahigh.pdf
 arxiv: 

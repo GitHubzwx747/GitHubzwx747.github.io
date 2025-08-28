@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Semi.png"
 teaser :
-authors: "Yuguang Yan, Wen Li, Hanrui Wu, Huaqing Min, Mingkui Tan, Qingyao Wu"
+authors: "Yuguang Yan, Wen Li, Hanrui Wu, Huaqing Min, **Mingkui Tan**, Qingyao Wu"
 bibtex: Semi.txt
 uri: Semi.pdf
 arxiv: 

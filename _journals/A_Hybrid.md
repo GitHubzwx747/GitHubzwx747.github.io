@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "A_Hybrid.png"
 teaser : 
-authors: "Shutao Li, Mingkui Tan, Ivor W Tsang, James Tin-Yau Kwok"
+authors: "Shutao Li, **Mingkui Tan**, Ivor W Tsang, James Tin-Yau Kwok"
 bibtex: A_Hybrid.txt
 uri: A_Hybrid.pdf
 arxiv: 

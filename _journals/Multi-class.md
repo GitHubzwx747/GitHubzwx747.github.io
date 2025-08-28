@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Multi-class.png"
 teaser :
-authors: "Joey Tianyi Zhou, Ivor W. Tsang, Sinno Jialin Pan, Mingkui Tan"
+authors: "Joey Tianyi Zhou, Ivor W. Tsang, Sinno Jialin Pan, **Mingkui Tan**"
 bibtex: Multi-class.txt
 uri: Multi-class.pdf
 arxiv: 

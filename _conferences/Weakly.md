@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Weakly.png"
 teaser :
-authors: "Peihao Chen, Dongyu Ji, Kunyang Lin, Runhao Zeng, Thomas H. Li, Mingkui Tan, Chuang Gan"
+authors: "Peihao Chen, Dongyu Ji, Kunyang Lin, Runhao Zeng, Thomas H. Li, **Mingkui Tan**, Chuang Gan"
 bibtex: Weakly.txt
 uri: Weakly.pdf
 arxiv: https://arxiv.org/abs/2210.07506

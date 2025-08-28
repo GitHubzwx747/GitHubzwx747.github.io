@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Cartoon-to-Photo.png"
 teaser :
-authors: "Junhong Huang, Mingkui Tan, Yuguang Yan, Chunmei Qing, Qingyao Wu, Zhuliang Yu"
+authors: "Junhong Huang, **Mingkui Tan**, Yuguang Yan, Chunmei Qing, Qingyao Wu, Zhuliang Yu"
 bibtex: Cartoon-to-Photo.txt
 uri: Cartoon-to-Photo.pdf
 arxiv:

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Hard_Sample.png"
 teaser :
-authors: "Huantong Li, Xiangmiao Wu, Fanbing Lv, Daihai Liao, Thomas H. Li, Yonggang Zhang, Bo Han, Mingkui Tan"
+authors: "Huantong Li, Xiangmiao Wu, Fanbing Lv, Daihai Liao, Thomas H. Li, Yonggang Zhang, Bo Han, **Mingkui Tan**"
 bibtex: Hard_Sample.txt
 uri: Hard_Sample.pdf
 arxiv: https://arxiv.org/abs/2303.13826

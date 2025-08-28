@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Learning_Vision.png"
 teaser :
-authors: "Kunyang Lin, Peihao Chen, Diwei Huang, Thomas H.Li, Mingkui Tan, Chuang Gan"
+authors: "Kunyang Lin, Peihao Chen, Diwei Huang, Thomas H.Li, **Mingkui Tan**, Chuang Gan"
 bibtex: Learning_Vision.txt
 uri: Learning_Vision.pdf
 arxiv: https://arxiv.org/abs/2307.11984

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Tensor.png"
 teaser :
-authors: "Chao Han, Qingyao Wu, Michael K. Ng, Jiezhang Cao, Mingkui Tan, Jian Chen"
+authors: "Chao Han, Qingyao Wu, Michael K. Ng, Jiezhang Cao, **Mingkui Tan**, Jian Chen"
 bibtex: Tensor.txt
 uri: Tensor.pdf
 arxiv: 

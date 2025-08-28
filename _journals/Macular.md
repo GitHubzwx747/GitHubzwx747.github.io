@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: 
 teaser : 
-authors: "Fengbin Lin, Zhen Qiu, Fei Li, Yu Chen, Yuying Peng, Meiling Chen, Yunhe Song, Jian Xiong, Weijing Cheng, Yuhong Liu, Mingkui Tan, Xiulan Zhang and Robert Weinreb"
+authors: "Fengbin Lin, Zhen Qiu, Fei Li, Yu Chen, Yuying Peng, Meiling Chen, Yunhe Song, Jian Xiong, Weijing Cheng, Yuhong Liu, **Mingkui Tan**, Xiulan Zhang and Robert Weinreb"
 bibtex: Macular.txt
 uri: 
 arxiv: 

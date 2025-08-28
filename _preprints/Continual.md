@@ -8,7 +8,7 @@ city:
 state: ""
 thumbnail: "Continual.png"
 teaser :
-authors: "Fengda Zhu, Xiaojun Chang, Runhao Zeng, Mingkui Tan"
+authors: "Fengda Zhu, Xiaojun Chang, Runhao Zeng, **Mingkui Tan**"
 bibtex: Continual.txt
 uri: Continual.pdf
 arxiv: https://arxiv.org/abs/1906.09205

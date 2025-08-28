@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Generative.png"
 teaser : 
-authors: "Shoukai Xu, Haokun Li, Bohan Zhuang, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan"
+authors: "Shoukai Xu, Haokun Li, Bohan Zhuang, Jing Liu, Jiezhang Cao, Chuangrun Liang, **Mingkui Tan**"
 bibtex: Generative.txt
 uri: Generative.pdf
 arxiv: https://arxiv.org/abs/2003.03603

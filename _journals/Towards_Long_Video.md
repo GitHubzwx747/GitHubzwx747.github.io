@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Long_Video.png"
 teaser :
-authors: "Zeng You, Zhiquan Wen, Yaofo Chen, Xin Li, Runhao Zeng, Yaowei Wang, Mingkui Tan"
+authors: "Zeng You, Zhiquan Wen, Yaofo Chen, Xin Li, Runhao Zeng, Yaowei Wang, **Mingkui Tan**"
 bibtex: Towards_Long_Video.txt
 uri: Towards_Long_Video.pdf
 arxiv: https://arxiv.org/pdf/2412.06182

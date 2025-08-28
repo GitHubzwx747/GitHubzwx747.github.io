@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Partitioning.png"
 teaser : 
-authors: "Shaoshuai Ding, Lei Yang, Jiannong Cao, Wei Cai, Mingkui Tan, Zhenyu Wang"
+authors: "Shaoshuai Ding, Lei Yang, Jiannong Cao, Wei Cai, **Mingkui Tan**, Zhenyu Wang"
 bibtex: Partitioning.txt
 uri: Partitioning.pdf
 arxiv: 

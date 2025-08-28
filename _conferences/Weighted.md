@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Weighted.png"
 teaser :
-authors: "Shijie Xiao, Mingkui Tan, Dong Xu"
+authors: "Shijie Xiao, **Mingkui Tan**, Dong Xu"
 bibtex: Weighted.txt
 uri: Weighted.pdf
 arxiv: 

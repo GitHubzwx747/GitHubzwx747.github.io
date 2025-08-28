@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Rethinking.png"
 teaser : 
-authors: "Bohan Zhuang, Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid"
+authors: "Bohan Zhuang, Chunhua Shen, **Mingkui Tan**, Lingqiao Liu, Ian Reid"
 bibtex: Rethinking.txt
 uri: Rethinking.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Discrimination.png"
 teaser :
-authors: "Dong Gong, Mingkui Tan, Yanning Zhang, Anton van den Hengel, Qinfeng Shi"
+authors: "Dong Gong, **Mingkui Tan**, Yanning Zhang, Anton van den Hengel, Qinfeng Shi"
 bibtex: MPGL.txt
 uri: MPGL.pdf
 arxiv: 

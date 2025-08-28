@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Learning.png"
 teaser :
-authors: "Mingkui Tan, Yan Yan, Li Wang, Anton Van Den Hengel, Ivor W. Tsang, Qinfeng (Javen) Shi"
+authors: "**Mingkui Tan**, Yan Yan, Li Wang, Anton Van Den Hengel, Ivor W. Tsang, Qinfeng (Javen) Shi"
 bibtex: Learning.txt
 uri: Learning.pdf
 arxiv: 

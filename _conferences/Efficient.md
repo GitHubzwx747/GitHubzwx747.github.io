@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Efficient.png"
 teaser : 
-authors: "Wei Emma Zhang, Mingkui Tan, Quan Z. Sheng, Lina Yao, Qingfeng Shi"
+authors: "Wei Emma Zhang, **Mingkui Tan**, Quan Z. Sheng, Lina Yao, Qingfeng Shi"
 bibtex: Efficient.txt
 uri: Efficient.pdf
 arxiv: 

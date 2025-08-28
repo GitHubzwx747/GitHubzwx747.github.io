@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Oversampling.png"
 teaser :
-authors: "Yuguang Yan, Mingkui Tan, Yanwu Xu, Jiezhang Cao, Michael Ng, Huaqing Min, Qingyao Wu"
+authors: "Yuguang Yan, **Mingkui Tan**, Yanwu Xu, Jiezhang Cao, Michael Ng, Huaqing Min, Qingyao Wu"
 bibtex: Oversampling.txt
 uri: Oversampling.pdf
 arxiv:

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Image_Captioning.png"
 teaser :
-authors: "Ning Ding, Chaorui Deng, Mingkui Tan, Qing Du, Zhiwei Ge, Qi Wu"
+authors: "Ning Ding, Chaorui Deng, **Mingkui Tan**, Qing Du, Zhiwei Ge, Qi Wu"
 bibtex: Image_Captioning.txt
 uri: Image_Captioning.pdf
 arxiv: 

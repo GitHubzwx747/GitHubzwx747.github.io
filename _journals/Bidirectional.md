@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Bidirectional.png"
 teaser : 
-authors: "Mingkui Tan, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, and Runhao Zeng."
+authors: "**Mingkui Tan**, Gengqin Ni, Xu Liu, Shiliang Zhang, Xiangmiao Wu, Yaowei Wang, and Runhao Zeng."
 bibtex: Bidirectional.txt
 uri: Bidirectional.pdf
 arxiv: 

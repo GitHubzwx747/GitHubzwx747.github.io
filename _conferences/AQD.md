@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "AQD.png"
 teaser :
-authors: " Peng Chen,  Jing Liu, Bohan Zhuang, Mingkui Tan, Chunhua Shen"
+authors: " Peng Chen,  Jing Liu, Bohan Zhuang, **Mingkui Tan**, Chunhua Shen"
 bibtex: AQD.txt
 uri: AQD.pdf
 arxiv: https://arxiv.org/abs/2007.06919

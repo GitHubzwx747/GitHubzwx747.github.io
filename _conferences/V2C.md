@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "V2C.png"
 teaser :
-authors: "Qi Chen, Mingkui Tan,  Yuankai Qi, Jiaqiu Zhou,  Yuanqing Li, Qi Wu"
+authors: "Qi Chen, **Mingkui Tan**,  Yuankai Qi, Jiaqiu Zhou,  Yuanqing Li, Qi Wu"
 bibtex: V2C.txt
 uri: V2C.pdf
 arxiv: https://arxiv.org/abs/2111.12890

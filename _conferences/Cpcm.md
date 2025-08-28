@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Cpcm.png"
 teaser :
-authors: "Lizhao Liu, Zhuangwei Zhuang, Shangxin Huang, Xunlong Xiao, Tianhang Xiang, Cen Chen, Jingdong Wang, Mingkui Tan"
+authors: "Lizhao Liu, Zhuangwei Zhuang, Shangxin Huang, Xunlong Xiao, Tianhang Xiang, Cen Chen, Jingdong Wang, **Mingkui Tan**"
 bibtex: Cpcm.txt
 uri: Cpcm.pdf
 arxiv: https://arxiv.org/abs/2307.10316

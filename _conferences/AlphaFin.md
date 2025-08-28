@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "AlphaFin.png"
 teaser :
-authors: "Xiang Li, Zhenyu Li, Chen Shi, Yong Xu, Qing Du, Mingkui Tan, Jun Huang"
+authors: "Xiang Li, Zhenyu Li, Chen Shi, Yong Xu, Qing Du, **Mingkui Tan**, Jun Huang"
 bibtex: AlphaFin.txt
 uri: AlphaFin.pdf
 arxiv: https://arxiv.org/abs/2403.12582

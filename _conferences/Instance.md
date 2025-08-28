@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Instance.png"
 teaser :
-authors: " Zhihao Liang, Zhihao Li, Songcen Xu, Mingkui Tan, Kui Jia"
+authors: " Zhihao Liang, Zhihao Li, Songcen Xu, **Mingkui Tan**, Kui Jia"
 bibtex: Instance.txt
 uri: Instance.pdf
 arxiv: https://arxiv.org/abs/2108.07478

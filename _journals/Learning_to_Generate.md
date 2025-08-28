@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Learning_to_Generate.png"
 teaser : 
-authors: "Hui Luo, Shuhai Zhang, Zhuangwei Zhuang, Jiajie Mai, Mingkui Tan; Jianlin Zhang"
+authors: "Hui Luo, Shuhai Zhang, Zhuangwei Zhuang, Jiajie Mai, **Mingkui Tan**; Jianlin Zhang"
 bibtex: Learning_to_Generate.txt
 uri: Learning_to_Generate.pdf
 arxiv: 

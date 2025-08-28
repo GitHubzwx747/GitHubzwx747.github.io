@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Robust.png"
 teaser :
-authors: "Shijie Xiao, Mingkui Tan, Dong Xu, Zhao Yang Dong"
+authors: "Shijie Xiao, **Mingkui Tan**, Dong Xu, Zhao Yang Dong"
 bibtex: Robust.txt
 uri: Robust.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Adversarial.png"
 teaser :
-authors: "Jiezhang Cao, Yong Guo, Qingyao Wu, Chunhua Shen, Junzhou Huang, Mingkui Tan"
+authors: "Jiezhang Cao, Yong Guo, Qingyao Wu, Chunhua Shen, Junzhou Huang, **Mingkui Tan**"
 bibtex: Adversarial.txt
 uri: Adversarial.pdf
 arxiv: https://arxiv.org/abs/1806.04895

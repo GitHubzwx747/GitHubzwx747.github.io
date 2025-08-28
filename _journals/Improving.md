@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Improving.png"
 teaser : 
-authors: "Jiezhang Cao, Yong Guo, Qingyao Wu, Chunhua Shen, Junzhou Huang, Mingkui Tan"
+authors: "Jiezhang Cao, Yong Guo, Qingyao Wu, Chunhua Shen, Junzhou Huang, **Mingkui Tan**"
 bibtex: Improving.txt
 uri: Improving.pdf
 arxiv: 

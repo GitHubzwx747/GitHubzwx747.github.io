@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Graph_Convolutional_Module.png"
 teaser : 
-authors: "Runhao Zeng, Wenbing Huang, Mingkui Tan, Yu Rong, Peilin Zhao, Junzhou Huang, Chuang Gan"
+authors: "Runhao Zeng, Wenbing Huang, **Mingkui Tan**, Yu Rong, Peilin Zhao, Junzhou Huang, Chuang Gan"
 bibtex: Graph_Convolutional_Module.txt
 uri: Graph_Convolutional_Module.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Stable.png"
 teaser :
-authors: "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, Mingkui Tan"
+authors: "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, **Mingkui Tan**"
 bibtex: Towards_Stable.txt
 uri: Towards_Stable.pdf
 arxiv: https://arxiv.org/abs/2302.12400

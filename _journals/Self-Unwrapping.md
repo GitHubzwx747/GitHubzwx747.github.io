@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Self-Unwrapping.png"
 teaser : 
-authors: "Jinghui Zeng, Wenxin Ma, Wei Jia, Yucheng Li, Haowen Li, Xuewen Liu, and Mingkui Tan."
+authors: "Jinghui Zeng, Wenxin Ma, Wei Jia, Yucheng Li, Haowen Li, Xuewen Liu, and **Mingkui Tan**."
 bibtex: Self-Unwrapping.txt
 uri: Self-Unwrapping.pdf
 arxiv: 

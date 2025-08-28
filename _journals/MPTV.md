@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "MPTV.png"
 teaser :
-authors: "Dong Gong, Mingkui Tan, Qinfeng Shi, Anton van den Hengel , Yanning Zhang"
+authors: "Dong Gong, **Mingkui Tan**, Qinfeng Shi, Anton van den Hengel , Yanning Zhang"
 bibtex: MPTV.txt
 uri: MPTV.pdf
 arxiv: 

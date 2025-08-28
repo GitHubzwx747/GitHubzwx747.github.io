@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Breaking.png"
 teaser :
-authors: "Runhao Zeng, Chuang Gan, Peihao Chen, Wenbing Huang, Qingyao Wu, Mingkui Tan"
+authors: "Runhao Zeng, Chuang Gan, Peihao Chen, Wenbing Huang, Qingyao Wu, **Mingkui Tan**"
 bibtex: Breaking.txt
 uri: Breaking.pdf
 arxiv: 

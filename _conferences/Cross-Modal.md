@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Cross-Modal.png"
 teaser :
-authors: "Haoming Xu, Runhao Zeng, Qingyao Wu, Mingkui Tan, Chuang Gan"
+authors: "Haoming Xu, Runhao Zeng, Qingyao Wu, **Mingkui Tan**, Chuang Gan"
 bibtex: Cross-Modal.txt
 uri: Cross-Modal.pdf
 arxiv: 

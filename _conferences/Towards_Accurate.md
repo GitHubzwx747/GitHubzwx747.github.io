@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Accurate.png"
 teaser : 
-authors: "Zhaoyi Yan, Yemin Shi, YaoWei Wang, Mingkui Tan, Zheyang Li, Wenming Tan, Yonghong Tian"
+authors: "Zhaoyi Yan, Yemin Shi, YaoWei Wang, **Mingkui Tan**, Zheyang Li, Wenming Tan, Yonghong Tian"
 bibtex: Towards_Accurate.txt
 uri: Towards_Accurate.pdf
 arxiv: 

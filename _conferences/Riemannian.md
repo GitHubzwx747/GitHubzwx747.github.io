@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Riemannian.png"
 teaser : 
-authors: "Mingkui Tan, Ivor W Tsang, Li Wang, Bart Vandereycken, Sinno Jialin Pan"
+authors: "**Mingkui Tan**, Ivor W Tsang, Li Wang, Bart Vandereycken, Sinno Jialin Pan"
 bibtex: Riemannian.txt
 uri: Riemannian.pdf
 arxiv: 

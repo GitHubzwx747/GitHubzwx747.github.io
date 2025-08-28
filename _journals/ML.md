@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "ML.png"
 teaser : 
-authors: "Qingyao Wu, Mingkui Tan, Hengjie Song, Jian Chen, Michael K. Ng"
+authors: "Qingyao Wu, **Mingkui Tan**, Hengjie Song, Jian Chen, Michael K. Ng"
 bibtex: ML.txt
 uri: ML.pdf
 arxiv: 

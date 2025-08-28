@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "RSPNet.png"
 teaser :
-authors: "Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, Mingkui Tan, Chuang Gan "
+authors: "Peihao Chen, Deng Huang, Dongliang He, Xiang Long, Runhao Zeng, Shilei Wen, **Mingkui Tan**, Chuang Gan "
 bibtex: 
 uri: RSPNet.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "AdaXpert.png"
 teaser :
-authors: "Shuaicheng Niu, Jiaxiang Wu, Guanghui Xu, Yifan Zhang, Yong Guo, Peilin Zhao, Peng Wang, Mingkui Tan"
+authors: "Shuaicheng Niu, Jiaxiang Wu, Guanghui Xu, Yifan Zhang, Yong Guo, Peilin Zhao, Peng Wang, **Mingkui Tan**"
 bibtex: AdaXpert.txt
 uri: AdaXpert.pdf
 arxiv: https://arxiv.org/abs/2107.00254

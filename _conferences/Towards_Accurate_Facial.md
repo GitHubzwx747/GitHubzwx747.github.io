@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Accurate_Facial.png"
 teaser :
-authors: "Langyuan Mo, Haokun Li, Chaoyang Zou, Yubing Zhang, Ming Yang, Yihong Yang, and Mingkui Tan"
+authors: "Langyuan Mo, Haokun Li, Chaoyang Zou, Yubing Zhang, Ming Yang, Yihong Yang, and **Mingkui Tan**"
 bibtex: Towards_Accurate_Facial.txt
 uri: Towards_Accurate_Facial.pdf
 arxiv: 

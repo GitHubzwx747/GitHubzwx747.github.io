@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Multi-way.png"
 teaser :
-authors: "Yong Guo, Jian Chen, Qing Du, Anton Van Den Hengel, Qinfeng Shi, Mingkui Tan"
+authors: "Yong Guo, Jian Chen, Qing Du, Anton Van Den Hengel, Qinfeng Shi, **Mingkui Tan**"
 bibtex: Multi-way.txt
 uri: Multi-way.pdf
 arxiv: 

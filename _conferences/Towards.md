@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards.png"
 teaser : 
-authors: "Bohan Zhuang, Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid"
+authors: "Bohan Zhuang, Chunhua Shen, **Mingkui Tan**, Lingqiao Liu, Ian Reid"
 bibtex: Towards.txt
 uri: Towards.pdf
 arxiv: https://arxiv.org/abs/1711.00205

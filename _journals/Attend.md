@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Attend.png"
 teaser :
-authors: "Fan Lyu, Qi Wu, Fuyuan Hu, Qingyao Wu, Mingkui Tan"
+authors: "Fan Lyu, Qi Wu, Fuyuan Hu, Qingyao Wu, **Mingkui Tan**"
 bibtex: Attend.txt
 uri: Attend.pdf
 arxiv: 

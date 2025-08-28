@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Disturbance.png"
 teaser : 
-authors: "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Yong Guo, Peilin Zhao, Junzhou Huang, and Mingkui Tan."
+authors: "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Yong Guo, Peilin Zhao, Junzhou Huang, and **Mingkui Tan**."
 bibtex: Disturbance.txt
 uri: Disturbance.pdf
 arxiv: https://arxiv.org/abs/2003.13089

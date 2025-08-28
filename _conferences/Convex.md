@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Convex.png"
 teaser : 
-authors: "Mingkui Tan, Ivor W. Tsang, Li Wang, Xinming Zhang"
+authors: "**Mingkui Tan**, Ivor W. Tsang, Li Wang, Xinming Zhang"
 bibtex: Convex.txt
 uri: Convex.pdf
 arxiv: 

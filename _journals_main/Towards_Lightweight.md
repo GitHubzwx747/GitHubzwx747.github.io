@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Lightweight.png"
 teaser :
-authors: "Yong Guo , Mingkui Tan , Zeshuai Deng , Jingdong Wang , Qi Chen, Jiezhang Cao , Yanwu Xu , and Jian Chen"
+authors: "Yong Guo , **Mingkui Tan** , Zeshuai Deng , Jingdong Wang , Qi Chen, Jiezhang Cao , Yanwu Xu , and Jian Chen"
 bibtex: Towards_Lightweight.txt
 uri: Towards_Lightweight.pdf
 arxiv: https://arxiv.org/abs/2207.07929

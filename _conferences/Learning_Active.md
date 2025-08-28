@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Learning_Active.png"
 teaser :
-authors: "Peihao Chen, Dongyu Ji, Kunyang Lin, Weiwen Hu, Wenbing Huang, Thomas H. Li, Mingkui Tan, Chuang Gan"
+authors: "Peihao Chen, Dongyu Ji, Kunyang Lin, Weiwen Hu, Wenbing Huang, Thomas H. Li, **Mingkui Tan**, Chuang Gan"
 bibtex: Learning_Active.txt
 uri: Learning_Active.pdf
 arxiv: https://arxiv.org/abs/2210.07505

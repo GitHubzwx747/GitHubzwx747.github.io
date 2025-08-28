@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Content-aware.png"
 teaser : 
-authors: "Yong Guo, Yaofo Chen, Mingkui Tan, Kui Jia, Jian Chen, Jingdong Wang"
+authors: "Yong Guo, Yaofo Chen, **Mingkui Tan**, Kui Jia, Jian Chen, Jingdong Wang"
 bibtex: Content-aware.txt
 uri: Content-aware.pdf
 arxiv: https://arxiv.org/abs/2106.15797

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Dynamic.png"
 teaser :
-authors: "Lizhao Liu, Junyi Cao, Minqian Liu, Yong Guo, Qi Chen, Mingkui Tan"
+authors: "Lizhao Liu, Junyi Cao, Minqian Liu, Yong Guo, Qi Chen, **Mingkui Tan**"
 bibtex: Dynamic.txt
 uri: Dynamic.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Debiased.png"
 teaser :
-authors: "Zhiquan Wen, Guanghui Xu, Mingkui Tan, Qingyao Wu, Qi Wu"
+authors: "Zhiquan Wen, Guanghui Xu, **Mingkui Tan**, Qingyao Wu, Qi Wu"
 bibtex: Debiased.txt
 uri: Debiased.pdf
 arxiv: 

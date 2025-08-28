@@ -8,7 +8,7 @@ city:
 state: ""
 thumbnail: "Dual.png"
 teaser :
-authors: "Yong Guo, Qi Chen, Jian Chen, Junzhou Huang, Yanwu Xu, Jiezhang Cao, Peilin Zhao, Mingkui Tan "
+authors: "Yong Guo, Qi Chen, Jian Chen, Junzhou Huang, Yanwu Xu, Jiezhang Cao, Peilin Zhao, **Mingkui Tan** "
 bibtex: Dual.txt
 uri: Dual.pdf
 arxiv: https://arxiv.org/abs/1809.07099

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "NAT.png"
 teaser :
-authors: "Yong Guo, Yin Zheng, Mingkui Tan, Qi Chen, Jian Chen, Peilin Zhao, Junzhou Huang"
+authors: "Yong Guo, Yin Zheng, **Mingkui Tan**, Qi Chen, Jian Chen, Peilin Zhao, Junzhou Huang"
 bibtex: NAT.txt
 uri: NAT.pdf
 arxiv: 

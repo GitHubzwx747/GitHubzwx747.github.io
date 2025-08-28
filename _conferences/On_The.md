@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "On_The.png"
 teaser :
-authors: "Jiezhang Cao, Qingyao Wu, Yuguang Yan, Li Wang, Mingkui Tan "
+authors: "Jiezhang Cao, Qingyao Wu, Yuguang Yan, Li Wang, **Mingkui Tan** "
 bibtex: On_The.txt
 uri: On_The.pdf
 arxiv: 

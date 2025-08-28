@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "EPMF.png"
 teaser :
-authors: "Mingkui Tan, Zhuangwei Zhuang, Sitao Chen, Rong Li, Kui Jia, Qicheng Wang and Yuanqing Li"
+authors: "**Mingkui Tan**, Zhuangwei Zhuang, Sitao Chen, Rong Li, Kui Jia, Qicheng Wang and Yuanqing Li"
 bibtex: EPMF.txt
 uri: EPMF.pdf
 arxiv: https://arxiv.org/pdf/2106.15277

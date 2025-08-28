@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Learning_Discriminative.png"
 teaser :
-authors: "Yuguang Yan, Wen Li, Michael Ng, Mingkui Tan, Hanrui Wu, Huaqing Min, Qingyao Wu"
+authors: "Yuguang Yan, Wen Li, Michael Ng, **Mingkui Tan**, Hanrui Wu, Huaqing Min, Qingyao Wu"
 bibtex: Learning_Discriminative.txt
 uri: Learning_Discriminative.pdf
 arxiv: 

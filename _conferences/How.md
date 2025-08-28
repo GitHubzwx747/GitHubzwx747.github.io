@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "How.png"
 teaser :
-authors: "Li Liu, Mengge He, Guanghui Xu, Mingkui Tan, Qi Wu "
+authors: "Li Liu, Mengge He, Guanghui Xu, **Mingkui Tan**, Qi Wu "
 bibtex: 
 uri: How.pdf
 arxiv: 

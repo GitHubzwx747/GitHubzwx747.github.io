@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Heterogeneous.png"
 teaser : 
-authors: "Joey Tianyi Zhou, Ivor W.Tsang, Sinno Jialin Pan, Mingkui Tan"
+authors: "Joey Tianyi Zhou, Ivor W.Tsang, Sinno Jialin Pan, **Mingkui Tan**"
 bibtex: Heterogeneous.txt
 uri: Heterogeneous.pdf
 arxiv: 

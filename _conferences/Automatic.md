@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Automatic.png"
 teaser :
-authors: "Pengshuai Yin, Mingkui Tan, Huaqing Min, Yanwu Xu, Guanghui Xu, Qingyao Wu, Yunfei Tong, Higashita Risa, Jiang Liu"
+authors: "Pengshuai Yin, **Mingkui Tan**, Huaqing Min, Yanwu Xu, Guanghui Xu, Qingyao Wu, Yunfei Tong, Higashita Risa, Jiang Liu"
 bibtex: Automatic.txt
 uri: Automatic.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "From.png"
 teaser :
-authors: "Yifan Zhang, Hanbo Chen, Ying Wei, Peilin Zhao, Jiezhang Cao, Xinjuan Fan, Xiaoying Lou, Hailing Liu, Jinlong Hou, Xiao Han, Jianhua Yao, Qingyao Wu, Mingkui Tan, Junzhou Huang"
+authors: "Yifan Zhang, Hanbo Chen, Ying Wei, Peilin Zhao, Jiezhang Cao, Xinjuan Fan, Xiaoying Lou, Hailing Liu, Jinlong Hou, Xiao Han, Jianhua Yao, Qingyao Wu, **Mingkui Tan**, Junzhou Huang"
 bibtex: From.txt
 uri: From.pdf
 arxiv:

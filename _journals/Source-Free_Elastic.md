@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Source-Free_Elastic.png"
 teaser :
-authors: "Mingkui Tan, Peihao Chen, Hongyan Zhi, Jiajie Mai, Benjamin Rosman, Dongyu Ji, Runhao Zeng"
+authors: "**Mingkui Tan**, Peihao Chen, Hongyan Zhi, Jiajie Mai, Benjamin Rosman, Dongyu Ji, Runhao Zeng"
 bibtex: Source-Free_Elastic.txt
 uri: Source-Free_Elastic.pdf
 arxiv: 

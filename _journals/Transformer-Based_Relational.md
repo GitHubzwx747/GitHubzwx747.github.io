@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Transformer-Based_Relational.png"
 teaser : 
-authors: "Mingkui Tan, Zhiquan Wen, Leyuan Fang, Qi Wu"
+authors: "**Mingkui Tan**, Zhiquan Wen, Leyuan Fang, Qi Wu"
 bibtex: Transformer-Based_Relational.txt
 uri: Transformer-Based_Relational.pdf
 arxiv: 

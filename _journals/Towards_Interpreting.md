@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Interpreting.png"
 teaser : 
-authors: "Jiezhang Cao, Jincheng Li, Xiping Hu, Xiangmiao Wu, and Mingkui Tan."
+authors: "Jiezhang Cao, Jincheng Li, Xiping Hu, Xiangmiao Wu, and **Mingkui Tan**."
 bibtex: Towards_interpreting.txt
 uri: Towards_interpreting.pdf
 arxiv: 

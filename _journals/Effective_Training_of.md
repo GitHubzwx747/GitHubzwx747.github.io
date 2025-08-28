@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Effective_Training_of.png"
 teaser : 
-authors: "Bohan Zhuang, Jing Liu, Mingkui Tan, Lingqiao Liu, Ian Reid, Chunhua Shen"
+authors: "Bohan Zhuang, Jing Liu, **Mingkui Tan**, Lingqiao Liu, Ian Reid, Chunhua Shen"
 bibtex: Effective_Training_of.txt
 uri: Effective_Training_of.pdf
 arxiv: https://arxiv.org/abs/1908.04680

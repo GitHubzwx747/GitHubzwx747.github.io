@@ -10,7 +10,7 @@ city:
 state: ""
 thumbnail: "Self-Supervised.png"
 teaser :
-authors: "Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Huang Da, Jun Cheng, Bin Hu "
+authors: "Haocong Rao, Siqi Wang, Xiping Hu, **Mingkui Tan**, Huang Da, Jun Cheng, Bin Hu "
 bibtex: Self-Supervised.txt
 uri: Self-Supervised.pdf
 arxiv: 

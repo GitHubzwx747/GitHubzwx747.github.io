@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Double.png"
 teaser : 
-authors: "Yong Guo, Qingyao Wu, Chaorui Deng, Jian Chen, Mingkui Tan"
+authors: "Yong Guo, Qingyao Wu, Chaorui Deng, Jian Chen, **Mingkui Tan**"
 bibtex: Double.txt
 uri: Double.pdf
 arxiv: 

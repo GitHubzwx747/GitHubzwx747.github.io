@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Adaptive.png"
 teaser :
-authors: "Peilin Zhao, Yifan Zhang, Min Wu, Steven C. H. Hoi, Mingkui Tan, Junzhou Huang"
+authors: "Peilin Zhao, Yifan Zhang, Min Wu, Steven C. H. Hoi, **Mingkui Tan**, Junzhou Huang"
 bibtex: Adaptive.txt
 uri: Adaptive.pdf
 arxiv: 

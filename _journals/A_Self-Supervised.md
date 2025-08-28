@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "A_Self-Supervised.png"
 teaser : 
-authors: "Haocong Rao, Siqi Wang, Xiping Hu, Mingkui Tan, Yi Guo, Jun Cheng, Xinwang Liu, Bin Hu"
+authors: "Haocong Rao, Siqi Wang, Xiping Hu, **Mingkui Tan**, Yi Guo, Jun Cheng, Xinwang Liu, Bin Hu"
 bibtex: A_Self-Supervised.txt
 uri: A_Self-Supervised.pdf
 arxiv: https://arxiv.org/abs/2009.03671

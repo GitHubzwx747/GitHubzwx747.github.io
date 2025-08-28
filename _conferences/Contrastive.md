@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Contrastive.png"
 teaser :
-authors: "Yaofo Chen, Yong Guo, Qi Chen, Minli Li, Yaowei Wang, Wei Zeng, Mingkui Tan"
+authors: "Yaofo Chen, Yong Guo, Qi Chen, Minli Li, Yaowei Wang, Wei Zeng, **Mingkui Tan**"
 bibtex: 
 uri: Contrastive.pdf
 arxiv: 

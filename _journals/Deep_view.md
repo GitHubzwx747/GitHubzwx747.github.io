@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Deep_View.png"
 teaser : 
-authors: "Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, Mingkui Tan"
+authors: "Zhuoman Liu, Wei Jia, Ming Yang, Peiyao Luo, Yong Guo, **Mingkui Tan**"
 bibtex: Deep_View.txt
 uri: Deep_View.pdf
 arxiv: 

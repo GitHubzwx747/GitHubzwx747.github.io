@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Retinal.png"
 teaser : 
-authors: "Shihao Zhang, Huazhu Fu, Yanwu Xu, Yanxia Liu, Mingkui Tan"
+authors: "Shihao Zhang, Huazhu Fu, Yanwu Xu, Yanxia Liu, **Mingkui Tan**"
 bibtex: Retinal.txt
 uri: Retinal.pdf
 arxiv: https://arxiv.org/abs/2008.00817

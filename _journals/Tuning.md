@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Tuning.png"
 teaser : 
-authors: "Shutao Li, Mingkui Tan"
+authors: "Shutao Li, **Mingkui Tan**"
 bibtex: Tuning.txt
 uri: Tuning.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "A_Unified.png"
 teaser : 
-authors: "Marcus Chen, Ivor W. Tsang, Mingkui Tan, and Tat Jen Cham"
+authors: "Marcus Chen, Ivor W. Tsang, **Mingkui Tan**, and Tat Jen Cham"
 bibtex: A_Unified.txt
 uri: A_Unified.pdf
 arxiv: 

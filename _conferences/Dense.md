@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Dense.png"
 teaser : 
-authors: "Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chuang Gan"
+authors: "Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, **Mingkui Tan**, Chuang Gan"
 bibtex: Dense.txt
 uri: Dense.pdf
 supp: Dense_Supplementary.pdf

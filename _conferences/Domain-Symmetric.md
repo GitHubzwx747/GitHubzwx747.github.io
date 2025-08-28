@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Domain-Symmetric.png"
 teaser :
-authors: "Yabin Zhang, Hui Tang, Kui Jia, Mingkui Tan"
+authors: "Yabin Zhang, Hui Tang, Kui Jia, **Mingkui Tan**"
 bibtex: Domain-Symmetric.txt
 uri: Domain-Symmetric.pdf
 arxiv: https://arxiv.org/abs/1904.04663

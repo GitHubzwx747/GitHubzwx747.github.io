@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Deep.png"
 teaser :
-authors: "Kui Jia, Jiehong Lin, Mingkui Tan, and Dacheng Tao"
+authors: "Kui Jia, Jiehong Lin, **Mingkui Tan**, and Dacheng Tao"
 bibtex: Deep.txt
 uri: Deep.pdf
 arxiv: https://arxiv.org/abs/1904.11151

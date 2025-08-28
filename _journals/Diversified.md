@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Diversified.png"
 teaser : 
-authors: "Zuxiang Long, Fuyan Ma, Bin Sun, Mingkui Tan, and Shutao Li"
+authors: "Zuxiang Long, Fuyan Ma, Bin Sun, **Mingkui Tan**, and Shutao Li"
 bibtex: Diversified.txt
 uri: Diversified.pdf
 arxiv: 

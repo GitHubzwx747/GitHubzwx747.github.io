@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Efficient_Test.png"
 teaser :
-authors: "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Shijian Zheng, Peilin Zhao, and Mingkui Tan"
+authors: "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Shijian Zheng, Peilin Zhao, and **Mingkui Tan**"
 bibtex: Efficient_Test.txt
 uri: Efficient_Test.pdf
 arxiv: https://arxiv.org/abs/2204.02610

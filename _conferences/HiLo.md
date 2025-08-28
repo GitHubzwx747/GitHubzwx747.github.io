@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "HiLo.png"
 teaser :
-authors: "Yifan Yang, Dong Liu, Shuhai Zhang, Zeshuai Deng, Zixiong Huang, Mingkui Tan"
+authors: "Yifan Yang, Dong Liu, Shuhai Zhang, Zeshuai Deng, Zixiong Huang, **Mingkui Tan**"
 bibtex: HiLo.txt
 uri: HiLo.pdf
 arxiv: https://arxiv.org/abs/2404.04876

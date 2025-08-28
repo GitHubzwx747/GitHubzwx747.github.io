@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Closed-loop.png"
 teaser : 
-authors: "Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, Mingkui Tan"
+authors: "Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Deng, Yanwu Xu, **Mingkui Tan**"
 bibtex: Closed-Loop.txt
 uri: Closed-loop.pdf
 supp: Closed-loop_Supplementary.pdf

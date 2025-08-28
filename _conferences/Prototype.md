@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Prototype.png"
 teaser :
-authors: "Hongbin Lin, Yifan Zhang, Zhen Qiu, Shuaicheng Niu, Chuang Gan, Yanxia Liu, and Mingkui Tan"
+authors: "Hongbin Lin, Yifan Zhang, Zhen Qiu, Shuaicheng Niu, Chuang Gan, Yanxia Liu, and **Mingkui Tan**"
 bibtex: Prototype.txt
 uri: Prototype.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Perception.png"
 teaser :
-authors: "Zhuangwei Zhuang, Rong Li, Kui Jia, Qicheng Wang, Yuanqing Li, and Mingkui Tan"
+authors: "Zhuangwei Zhuang, Rong Li, Kui Jia, Qicheng Wang, Yuanqing Li, and **Mingkui Tan**"
 bibtex: Perception.txt
 uri: Perception.pdf
 arxiv: https://arxiv.org/abs/2106.15277

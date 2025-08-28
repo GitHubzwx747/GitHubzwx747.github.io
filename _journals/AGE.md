@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "AGE.png"
 teaser : 
-authors: "Huazhu Fu, Fei Li, Xu Sun, Xingxing Cao, Jingan Liao, José Ignacio Orlando, Xing Tao, Yuexiang Li, Shihao Zhang, Mingkui Tan, Chenglang Yuan, Cheng Bian, Ruitao Xie, Jiongcheng Li, Xiaomeng Li, Jing Wang, Le Geng, Panming Li, Huaying Hao, Huaying Hao, Yan Kong, Yongyong Ren, Hrvoje Bogunović, Xiulan Zhang, Yanwu Xu "
+authors: "Huazhu Fu, Fei Li, Xu Sun, Xingxing Cao, Jingan Liao, José Ignacio Orlando, Xing Tao, Yuexiang Li, Shihao Zhang, **Mingkui Tan**, Chenglang Yuan, Cheng Bian, Ruitao Xie, Jiongcheng Li, Xiaomeng Li, Jing Wang, Le Geng, Panming Li, Huaying Hao, Huaying Hao, Yan Kong, Yongyong Ren, Hrvoje Bogunović, Xiulan Zhang, Yanwu Xu "
 bibtex: AGE.txt
 uri: AGE.pdf
 arxiv: 

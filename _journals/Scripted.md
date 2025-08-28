@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Scripted.png"
 teaser : 
-authors: "Qi Chen, Qi Wu, Jian Chen, Qingyao Wu, Anton van den Hengel, Mingkui Tan"
+authors: "Qi Chen, Qi Wu, Jian Chen, Qingyao Wu, Anton van den Hengel, **Mingkui Tan**"
 bibtex: Scripted.txt
 uri: Scripted.pdf
 arxiv: 

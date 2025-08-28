@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Variable-Frequency.png"
 teaser : 
-authors: "Jinghui Zeng, Yucheng Li, Chen Xu, Shutao Li, Mingkui Tan"
+authors: "Jinghui Zeng, Yucheng Li, Chen Xu, Shutao Li, **Mingkui Tan**"
 bibtex: Variable-Frequency.txt
 uri: Variable-Frequency.pdf
 arxiv: 

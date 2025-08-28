@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Gene_Selection.png"
 teaser : 
-authors: "Shutao Li, Xixian Wu, Mingkui Tan"
+authors: "Shutao Li, Xixian Wu, **Mingkui Tan**"
 bibtex: Gene_Selection.txt
 uri: https://www.inderscienceonline.com/doi/abs/10.1504/IJMIC.2009.030081
 arxiv: 

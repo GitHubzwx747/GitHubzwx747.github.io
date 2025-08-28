@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "PM-Net.png"
 teaser :
-authors: "Pengshuai Yin, Qingyao Wu, Yanwu Xu, Huaqing Min, Ming Yang, Yubing Zhang, Mingkui Tan"
+authors: "Pengshuai Yin, Qingyao Wu, Yanwu Xu, Huaqing Min, Ming Yang, Yubing Zhang, **Mingkui Tan**"
 bibtex: PM-Net.txt
 uri: PM-Net.pdf
 arxiv:

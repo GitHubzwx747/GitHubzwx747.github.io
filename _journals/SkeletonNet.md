@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "SkeletonNet.png"
 teaser : 
-authors: "Jiapeng Tang, Xiaoguang Han, Mingkui Tan, Xin Tong, Kui Jia"
+authors: "Jiapeng Tang, Xiaoguang Han, **Mingkui Tan**, Xin Tong, Kui Jia"
 bibtex: SkeletonNet.txt
 uri: SkeletonNet.pdf
 arxiv: https://arxiv.org/abs/2008.05742

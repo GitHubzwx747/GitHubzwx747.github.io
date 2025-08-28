@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "NMFE.png"
 teaser : 
-authors: "Qingyao Wu, Hanrui Wu, Xiaoming Zhou, Mingkui Tan, Yonghui Xu, Yuguang Yan, and Tianyong Hao"
+authors: "Qingyao Wu, Hanrui Wu, Xiaoming Zhou, **Mingkui Tan**, Yonghui Xu, Yuguang Yan, and Tianyong Hao"
 bibtex: NMFE.txt
 uri: NMFE.pdf
 arxiv: 

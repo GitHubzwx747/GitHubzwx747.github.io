@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Minimax.png"
 teaser : 
-authors: "Mingkui Tan, Ivor W. Tsang, and Li Wang"
+authors: "**Mingkui Tan**, Ivor W. Tsang, and Li Wang"
 bibtex: Minimax.txt
 uri: Minimax.pdf
 arxiv: 

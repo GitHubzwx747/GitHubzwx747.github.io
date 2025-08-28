@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Generating_Long-form.png"
 teaser : 
-authors: "Qianyue Wang, Jinwu Hu, Zhengping Li, Yufeng Wang, daiyuan li, Yu Hu, Mingkui tan"
+authors: "Qianyue Wang, Jinwu Hu, Zhengping Li, Yufeng Wang, daiyuan li, Yu Hu, **Mingkui Tan**"
 bibtex: Graph_Convolutional_Module.txt
 uri: Graph_Convolutional_Module.pdf
 arxiv: 

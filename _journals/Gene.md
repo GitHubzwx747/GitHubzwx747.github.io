@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Gene.png"
 teaser : 
-authors: "Shutao Li, Xixian Wu, Mingkui Tan"
+authors: "Shutao Li, Xixian Wu, **Mingkui Tan**"
 bibtex: Gene.txt
 uri: Gene.pdf
 arxiv: 

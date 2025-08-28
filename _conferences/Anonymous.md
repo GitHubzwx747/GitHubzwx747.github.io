@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Anonymous.png"
 teaser :
-authors: "Lechun Zhang, Guangyao Chen, Yemin Shi, Quan Zhang, Mingkui Tan, Yaowei Wang, Yonghong Tian, Tiejun Huang"
+authors: "Lechun Zhang, Guangyao Chen, Yemin Shi, Quan Zhang, **Mingkui Tan**, Yaowei Wang, Yonghong Tian, Tiejun Huang"
 bibtex: Anonymous.txt
 uri: Anonymous.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Scalable.png"
 teaser : 
-authors: "Yan Yan, Mingkui Tan, Ivor Tsang, Yi Yang, Chengqi Zhang, Qinfeng Shi"
+authors: "Yan Yan, **Mingkui Tan**, Ivor Tsang, Yi Yang, Chengqi Zhang, Qinfeng Shi"
 bibtex: Scalable.txt
 uri: Scalable.pdf
 arxiv: 

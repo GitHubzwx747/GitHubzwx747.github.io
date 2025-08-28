@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Conditional.png"
 teaser :
-authors: "Jingwen Wang, Yuguang Yan, Yanwu Xu, Wei Zhao, Huaqing Min, Mingkui Tan, Jiang Liu"
+authors: "Jingwen Wang, Yuguang Yan, Yanwu Xu, Wei Zhao, Huaqing Min, **Mingkui Tan**, Jiang Liu"
 bibtex: Conditional.txt
 uri: Conditional.pdf
 arxiv:

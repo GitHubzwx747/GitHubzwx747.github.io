@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Recurrent.png"
 teaser : 
-authors: "Senmao Ye, Huan Wang, Mingkui Tan, Fei Liu"
+authors: "Senmao Ye, Huan Wang, **Mingkui Tan**, Fei Liu"
 bibtex: Recurrent.txt
 uri: Recurrent.pdf
 arxiv: https://arxiv.org/abs/2204.10482
