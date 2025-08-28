@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "A_Fast.png"
 teaser :
-authors: "Yongliang Chen, Jinghui Zhong, Mingkui Tan "
+authors: "Yongliang Chen, Jinghui Zhong, **Mingkui Tan** "
 bibtex: A_Fast.txt
 uri: A_Fast.pdf
 arxiv: 
