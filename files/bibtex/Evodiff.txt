@@ -1,0 +1,6 @@
+@inproceedings{li2025evodiff,
+  title={Evodiff: Entropy-aware variance optimized diffusion inference},
+  author={Li, Shigui and Chen, Wei and Zeng, Delu},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
