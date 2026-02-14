@@ -1,7 +1,7 @@
 ---
 title: "Sparse variational student-t processes"
 collection: conferences
-permalink: /publication/Sparse-student-t
+permalink: /publication/SparseStudentT
 date: 2024-01-01
 year: "2024"
 venue: "AAAI"
@@ -10,8 +10,8 @@ state: ""
 thumbnail: ""
 teaser: 
 authors: "Jian Xu, **Delu Zeng**"
-bibtex: Sparse-student-t.txt
-uri: Sparse-student-t.pdf
+bibtex: SparseStudentT.txt
+uri: SparseStudentT.pdf
 supp: 
 arxiv: 
 project: 
