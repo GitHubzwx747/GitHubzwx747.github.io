@@ -9,17 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Postdocs Opening
-----------
-Our Lab has sufficient research resources and closely collaborates with academia and industry. We highly value the personal and professional growth of lab members and aim to create the most productive and rewarding working environment possible. Currently, we are recruiting postdoctoral fellows.
+## Why Join Us?
 
-Qualifications
-----------
-* Ph.D. in computer science, artificial intelligence, mathematics, engineering or other related fields.
-* Strong interests in both theory and application of machine learning, computer vision, model compression, transfer learning and smart healthcare.
-* Possess scientific research capabilities, can carry out research independently and be able to lead graduate students in scientific research.
+Our graduates consistently secure **highly competitive positions**, with average starting salaries **exceeding ¥250,000/year**, and top performers earning **over ¥400,000/year**—comparable to or better than peers from other top-tier Chinese universities.
 
-Application
-----------
-* Please visit [the page](https://www2.scut.edu.cn/hr/2019/1016/c4460a340019/page.htm) for details.
-* Send your application material in one zip file to **mingkuitan@scut.edu.cn**. Use “SMIL prospective Postdoc [Your name]” as your email subject.
+During your studies, you will:
+- Engage in cutting-edge theoretical research  
+- Work on meaningful applied projects  
+- Gain opportunities for international exchange (e.g., Columbia University, University of Rochester, and leading European institutions)
+
+**Your effort and excellence will be recognized. We believe each new generation can surpass the last.**
+
+🌟 **Join us—and let your potential shine!**
+
+---
+
+**Data and Computation Intelligence Modeling Lab**  
+South China University of Technology  
+Address: Building 4, No. 381 Wushan Road, Tianhe District, Guangzhou, China
