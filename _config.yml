@@ -174,7 +174,10 @@ kramdown:
 # Collections
 collections:
   cv:
-    output: true
+    output: false
+    permalink: /:collection/:path/
+  teaching:
+    output: false
     permalink: /:collection/:path/
   conferences:
     output: true
