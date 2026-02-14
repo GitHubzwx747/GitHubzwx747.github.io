@@ -10,5 +10,4 @@ state: ""
 teaser: ""
 authors: "Pengfei Guo, Lang He, Shuangyin Liu, **Delu Zeng**, Hantao Liu"
 supp: ""
-data: ""
 ---
