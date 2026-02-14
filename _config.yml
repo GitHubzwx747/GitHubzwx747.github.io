@@ -219,10 +219,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _cv
   - scope:
       path: ""
-      type: teaching
+      type: cv
     values:
       layout: single
       author_profile: true
