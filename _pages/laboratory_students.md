@@ -7,8 +7,6 @@ redirect_from:
   - /laboratory_students
 ---
 
-# About the Lab
-
 Our research group, **DACIM (Data and Computation Intelligence Modeling)**, focuses on methodologies and applications at the intersection of data science and computational intelligence. Our research spans:
 
 - Machine learning  
