@@ -11,7 +11,7 @@ thumbnail: "D3re.png"
 teaser: 
 authors: "Wei Chen, Shigui Li, Jiacheng Li, Junmei Yang, John Paisley, **Delu Zeng**"
 bibtex: D3re.txt
-uri: d3re.pdf
+uri: D3re.pdf
 supp: 
 arxiv: https://arxiv.org/pdf/2505.00421
 project: 
