@@ -1,0 +1,6 @@
+@article{chen2025dequantified,
+  title={Dequantified Diffusion-Schr $\{$$\backslash$" o$\}$ dinger Bridge for Density Ratio Estimation},
+  author={Chen, Wei and Li, Shigui and Li, Jiacheng and Yang, Junmei and Paisley, John and Zeng, Delu},
+  journal={arXiv preprint arXiv:2505.05034},
+  year={2025}
+}
