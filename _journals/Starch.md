@@ -10,6 +10,4 @@ state: ""
 teaser: ""
 authors: "Bo Pan, Jinxuan Tao, Xianyang Bao, Jie Xiao, Hongsheng Liu, Xiaotong Zhao, **Delu Zeng**"
 supp: ""
-poster: ""
-data: ""
 ---
