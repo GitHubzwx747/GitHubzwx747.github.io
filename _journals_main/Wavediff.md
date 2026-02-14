@@ -9,8 +9,8 @@ city:
 state: ""
 teaser: 
 authors: "Jiacheng Li, **Wei Chen**, Yican Liu, Junmei Yang, Zhiheng Zhou, **Delu Zeng**"
+thumbnail: "Wavediff.png"
 bibtex: Wavediff.txt
-uri: Wavediff.pdf
 supp: 
 arxiv: 
 project: https://mp.weixin.qq.com/s/ITAwphWcT7076ttHctvcaw?scene=1&click_id=4
