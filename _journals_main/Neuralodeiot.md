@@ -11,7 +11,6 @@ thumbnail: "Neuralodeiot.png"
 teaser: 
 authors: "Jiacheng Li, Wei Chen, Yican Liu, Junmei Yang, **Delu Zeng**, Zhiheng Zhou"
 bibtex: Neuralodeiot.txt
-uri:Neuralodeiot.pdf
 supp: 
 arxiv: 
 project: 
