@@ -10,7 +10,7 @@ state: ""
 thumbnail: "Evodiff.png"
 teaser: 
 authors: "Shigui Li, Wei Chen, **Delu Zeng**"
-bibtex: EVODiff.txt
+bibtex: Evodiff.txt
 uri: Evodiff.pdf
 supp: 
 arxiv: https://arxiv.org/pdf/2509.26096
