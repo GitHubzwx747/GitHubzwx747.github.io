@@ -6,6 +6,7 @@ date: 2021-01-01
 year: "2021"
 venue: "Carbohydrate Polymers"
 city: ""
+thumbnail: "blank.png"
 state: ""
 teaser: ""
 authors: "Bo Pan, Jinxuan Tao, Xianyang Bao, Jie Xiao, Hongsheng Liu, Xiaotong Zhao, **Delu Zeng**"
