@@ -11,7 +11,6 @@ thumbnail: "Reciprocalla.png"
 teaser: 
 authors: "Zhiqi Lin, Wei Chen, Jian Xu, **Delu Zeng**, Min Chen"
 bibtex: Reciprocalla.txt
-uri: Reciprocalla.pdf
 supp: 
 project: 
 source: https://doi.org/10.1016/j.neucom.2025.131438
