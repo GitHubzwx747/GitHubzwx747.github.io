@@ -1,7 +1,7 @@
 ---
 title: "Underwater Image Quality Assessment: Subjective and Objective Methods"
 collection: journals
-permalink: /publication/underwater-image-quality-assessment
+permalink: /publication/Underwater
 date: 2021-01-01
 year: "2021"
 venue: "IEEE Transactions on Multimedia"
