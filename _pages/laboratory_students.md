@@ -7,93 +7,95 @@ redirect_from:
   - /laboratory_students
 ---
 
-<img src="{{ "lab_logo.png" | prepend: "/images/" | prepend: base_path }}" class="lab_logo" alt="{{ South China University of Technology Machine Intelligence Laboratory(SMIL)}}" width = "20%">
+# About the Lab
 
-<br />
-　　_South China University of Technology Machine Intelligence Laboratory(SMIL)_ was established by the _Professor **Mingkui Tan**_ from _South China University of Technology_ in 2016. So far, _SMIL_ has more than 60 members,including 7 doctoral students, more than 40 graduate students, and more than 10 undergraduates. _SMIL_ majors in Machine Learning, computer vision, quantization and so on, and has made many achievements in these fields. For example, _SMIL_ has many papers received by the Top conferences such as NeurIPS, CVPR, KDD, ICML and so on.
+Our research group, **DACIM (Data and Computation Intelligence Modeling)**, focuses on methodologies and applications at the intersection of data science and computational intelligence. Our research spans:
 
-Doctoral Students
---------
-* Yong Guo
-* Runhao Zeng
-* Jinghui Zeng
-* Zeshuai Deng
-* Shuaicheng Niu
-* Zhiquan Wen
-* Daiyuan Li
-* Senmao Ye
-* Xianghui Ruan
-* Yaofo Chen
-* Peihao Chen
-* Shoukai Xu
-* Zhuangwei Zhuang
-* Haokun Li
-* Yifan Yang
-* Hui Luo
-* Kai Zhou
-* Zeng You
-* Shuhai Zhang
-* Shijian Zheng
-* Jinwu Hu
-* Yuxin Gao
-* Yufeng Wang
+- Machine learning  
+- Applications of partial differential equations (PDEs) and function approximation  
+- Statistical data analysis  
+- Image and video processing & analysis  
+- Bayesian theory  
+- Artificial intelligence and its real-world applications  
 
-Graduate Students
---------
-* Peiyao Luo
-* Guanghui Xu
-* Wenxin Ma
-* Jincheng Li
-* Zheng Xie
-* Chuangrun Liang
-* Minli Li
-* Zhenyu Wang
-* Ning Ding
-* Hongdong Xiao
-* Chendi Rao
-* Weicheng Chi
-* Deng Huang
-* Zhipeng Li
-* Zhen Qiu
-* Mengge He
-* Gengqin Ni
-* Jiaqiu Zhou
-* Rong Li
-* Haoming Xu
-* Langyuan Mo
-* Guo Chen
-* Liangwei Chen
-* Wenjing Du
-* Weiwen Hu
-* Dongyu Ji
-* Hongbin Lin
-* Xu Liu
-* Yucheng Luo
-* Zhenliang Li
-* Huantong Li
-* Lizhao Liu
-* Weitao Deng
-* Botao Zou
-* Shangxin Huang
-* Fangzhou He
-* Zhenyu Li
-* Ran Luo
-* Zihao Lian
-* Kunyang Lin
-* Xinyu Sun
-* Dikai Xu
-* Zhuokun Chen
-* Jiahao Yang
-* Dong Liu
-* Guohao Chen
-* Zixiong Huang
-* Diwei Huang
-* Fangxiao Jin
-* Tianyu Liang
-* Rui Xiao
-* Xunlong Xiao
-* Zhiyang Zhang
-* Zekang Zheng
+---
 
-<!-- Undergraduates
--------- -->
+## Current Graduate Students
+
+| Year       | 2017         | 2019               | 2020             | 2021             | 2022             |
+|------------|--------------|--------------------|------------------|------------------|------------------|
+| **Name**   | Chang Lijun (PhD) | Lin Chen (MSc)     | Xu Jian (PhD)    | Li Shigui (PhD)  | Liu Yican (MSc)  |
+|            |                  | Zheng Zheng (PhD, co-advised by Prof. Li) | Yu Mengfei (MSc) | Chen Wei (MSc)   | Li Jiacheng (PhD)|
+|            |                  | Lai Ruili (MSc)    | Wen Chumei (MSc) | Chen Wei (PhD)   |                  |
+
+> 📸 *Click names with links to view student photos.*
+
+---
+
+## Other Students
+
+- **Undergraduates**: Luo Yihong, Luo Xinhang, Zheng Yong, Zhi Weihai, Chen Yancong
+
+---
+
+## Alumni
+
+| Name           | University        | Program Period     | Current Affiliation                     |
+|----------------|-------------------|--------------------|------------------------------------------|
+| Zhao Tong      | Xiamen University | MSc, 2013–2016     | Huawei                                   |
+| Wu Jiawen      | Xiamen University | MSc, 2014–2017     | Xiamen University                        |
+| Hu Yuwen       | Xiamen University | MSc, 2014–2017     | Huawei                                   |
+| Zhu Pan        | Xiamen University | MSc, 2014–2017     | Huawei                                   |
+| Huang Jiabin   | Xiamen University | MSc, 2015–2018     | ByteDance (Toutiao)                      |
+| Cai Shulian    | Xiamen University | MSc, 2015–2018     | China Construction Bank (Xiamen)         |
+| Tang Zhou      | South China University of Technology | MSc, 2016–2019 | Hubei Province                           |
+| He Xin         | South China University of Technology | MSc, 2017–2020 | China Construction Bank (Wuhan)          |
+| Chen Zhihong   | South China University of Technology | MSc, 2018–2021 | —                                        |
+| Liao Minyu     | South China University of Technology | MSc, 2018–2021 | —                                        |
+| He Yixuan      | South China University of Technology | BSc, 2016–2020 | PhD in Statistics, University of Oxford  |
+
+---
+
+## A Note from the PI
+
+> *"Mathematics remains the crown of natural sciences!"*  
+> 
+> Modern mathematics has even transcended natural science, exploring profoundly abstract realms. Yet it is not an ivory tower—mathematics is deeply practical and transformative. We encourage students to start from small steps and witness how mathematical ideas become real-world productivity.
+
+We warmly welcome motivated students to apply for **Master’s or PhD positions** in our group! Your research journey with us will involve bridging mathematics and engineering through:
+
+1. Identifying and studying theoretical mathematical problems emerging from engineering disciplines;  
+2. Applying advanced mathematical tools to solve real-world engineering challenges.
+
+You’ll explore topics aligned with our group’s interests—where theory meets application—and experience the elegance of mathematics as the foundation of scientific reasoning.
+
+---
+
+## Research Directions for Admission
+
+- **PhD Applicants**:  
+  Computational intelligence, machine learning, big data processing, image segmentation, multimodal signal processing (image/audio/text), PDE applications.
+
+- **Master’s Applicants**:  
+  Image/audio/text processing, multimedia information analysis, big data analytics, financial/economic modeling, and general AI-driven mathematical modeling.
+
+---
+
+## Why Join Us?
+
+Our graduates consistently secure **highly competitive positions**, with average starting salaries **exceeding ¥250,000/year**, and top performers earning **over ¥400,000/year**—comparable to or better than peers from other top-tier Chinese universities.
+
+During your studies, you will:
+- Engage in cutting-edge theoretical research  
+- Work on meaningful applied projects  
+- Gain opportunities for international exchange (e.g., Columbia University, University of Rochester, and leading European institutions)
+
+**Your effort and excellence will be recognized. We believe each new generation can surpass the last.**
+
+🌟 **Join us—and let your potential shine!**
+
+---
+
+**Data and Computation Intelligence Modeling Lab**  
+South China University of Technology  
+Address: Building 4, No. 381 Wushan Road, Tianhe District, Guangzhou, China
