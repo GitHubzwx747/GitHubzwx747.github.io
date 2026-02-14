@@ -23,19 +23,26 @@ Our research group, **DACIM (Data and Computation Intelligence Modeling)**, focu
 ## Lab Members
 
 ### PhD Students  
-- Chang Lijun (2017)  
-- Xu Jian (2020)  
+- Li Jiacheng (2022)
+- Lin Zhiqi(2022)
 - Li Shigui (2021)  
 - Chen Wei (2021)  
-- Li Jiacheng (2022)  
+- Xu Jian (2020)  
 - Zheng Zheng (2019, co-advised by Prof. Li)
+- Chang Lijun (2017)  
 
-### Master’s Students  
-- Lin Chen (2019)  
+### Master’s Students
+- Li Siya(2025)
+- Lin Ting(2025)
+- Zhang Wenxuan(2024)
+- Wu Yubing(2024)
+- Pan Yuqi(2023)
+- Jiang Yuhao(2023)
+- Liu Yican (2022)  
 - Yu Mengfei (2020)  
 - Wen Chumei (2020)  
-- Liu Yican (2022)  
 - Lai Ruili (2019)
+- Lin Chen (2019)  
 
 ## Alumni
 
