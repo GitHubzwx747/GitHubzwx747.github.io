@@ -14,25 +14,6 @@ redirect_from:
 
 
 
-Working Experience
----
-- **Feb. 2022 – Present**  
-  Professor, School of Electronic and Information Engineering, South China University of Technology  
-- **Sep. 2018 – Jan. 2021**  
-  Professor, School of Mathematics, South China University of Technology  
-- **Nov. 2018 – Nov. 2019**  
-  Visiting Scholar (CSC-funded), Data Science Institute, Columbia University, USA  
-- **Aug. 2018 – Sep. 2018**  
-  Research Scientist (Visiting), CMVS, University of Oulu, Finland  
-- **Jul. 2017 – Sep. 2017**  
-  Visiting Scholar, Data Science Institute, Columbia University, USA  
-- **Jul. 2016 – Aug. 2018**  
-  Associate Professor, School of Mathematics, South China University of Technology  
-- **Apr. 2013 – Jul. 2016**  
-  Associate Professor, School of Information Science and Technology, Xiamen University  
-- **Feb. 2010 – Mar. 2013**  
-  Postdoc & Associate Researcher (promoted 2011), School of Electronic and Information Engineering, South China University of Technology
-
 
 Conferences
 ----------
