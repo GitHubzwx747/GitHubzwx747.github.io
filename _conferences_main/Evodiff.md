@@ -7,7 +7,7 @@ year: "2025"
 venue: "NeurIPS"
 city: 
 state: ""
-thumbnail: "Evodiff.png"
+thumbnail: "evodiff.png"
 teaser: 
 authors: "Shigui Li, Wei Chen, **Delu Zeng**"
 bibtex: EVODiff.txt
