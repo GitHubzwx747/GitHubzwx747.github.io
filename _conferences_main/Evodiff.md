@@ -7,11 +7,11 @@ year: "2025"
 venue: "NeurIPS"
 city: 
 state: ""
-thumbnail: "evodiff.png"
+thumbnail: "Evodiff.png"
 teaser: 
 authors: "Shigui Li, Wei Chen, **Delu Zeng**"
 bibtex: EVODiff.txt
-uri: evodiff.pdf
+uri: Evodiff.pdf
 supp: 
 arxiv: https://arxiv.org/pdf/2509.26096
 project: 
