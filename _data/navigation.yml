@@ -12,8 +12,8 @@ main:
   - title: "My Students"
     url: /laboratory_students/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "cv"
+    url: /c'v/
 
   - title: "Join us"
     url: /join_us/
