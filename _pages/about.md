@@ -10,9 +10,7 @@ redirect_from:
 
 <br />
 　　**Delu Zeng**, Ph.D., Professor, Ph.D. & M.S. Supervisor. I have published **100+ papers** in top journals and conferences, including:  
-**IEEE TNNLS, IEEE TIP, IEEE GRSL, IEEE SPL**, and **ICML, AAAI, IJCAI, ICCV, CVPR, ICASSP**, etc.  
-I have **led 3 NSFC projects** (National Natural Science Foundation of China), and many provincial/ministerial & industrial projects. I also serve as a reviewer for many leading journals, including **IEEE TIP, IEEE TNNLS, IEEE TII, IEEE TMM, Neural Networks, Neurocomputing**, etc.  
-Member of **ACM, CCF, IEEE**.
+**IEEE TNNLS, IEEE TIP, IEEE GRSL, IEEE SPL**, and **ICML, AAAI, IJCAI, ICCV, CVPR, ICASSP**, etc. I have **led 3 NSFC projects** (National Natural Science Foundation of China), and many provincial/ministerial & industrial projects. I also serve as a reviewer for many leading journals, including **IEEE TIP, IEEE TNNLS, IEEE TII, IEEE TMM, Neural Networks, Neurocomputing**, etc. Member of **ACM, CCF, IEEE**.
 
 
 
