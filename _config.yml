@@ -176,9 +176,6 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-  teaching:
-    output: false
-    permalink: /:collection/:path/
   conferences:
     output: true
     permalink: /:collection/:path/
