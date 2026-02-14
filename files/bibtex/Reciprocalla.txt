@@ -1,0 +1,8 @@
+@article{lin2025reciprocalla,
+  title={ReciprocalLA-LLIE: Low-light image enhancement with luminance-aware reciprocal diffusion process},
+  author={Lin, Zhiqi and Chen, Wei and Xu, Jian and Zeng, Delu and Chen, Min},
+  journal={Neurocomputing},
+  pages={131438},
+  year={2025},
+  publisher={Elsevier}
+}
