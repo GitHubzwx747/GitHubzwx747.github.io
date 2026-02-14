@@ -11,7 +11,6 @@ thumbnail: "Eiwflow.png"
 teaser: 
 authors: "Wei Chen#, Shian Du#, Shigui Li#, **Delu Zeng**, John Paisley"
 bibtex: Eiwflow.txt
-uri: Eiwflow.pdf
 supp: 
 arxiv: 
 project: 
