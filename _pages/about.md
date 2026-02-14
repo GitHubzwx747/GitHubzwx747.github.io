@@ -9,13 +9,31 @@ redirect_from:
 ---
 
 <br />
-　　I am currently a professor with the School of Software Engineering at South China University of Technology. I received my Bachelor Degree in Environmental Science and Engineering in 2006 and Master degree in Control Science and Engineering in 2009, both from Hunan University in Changsha, China. I received the Ph.D. degree in Computer Science from Nanyang Technological University, Singapore, in 2014. From 2014-2016, I worked as a Senior Research Associate on computer vision in the School of Computer Science, University of Adelaide, Australia. My research interests include machine learning, sparse analysis, deep learning and large-scale optimization.
+　　**Delu Zeng**, Ph.D., Professor, Ph.D. & M.S. Supervisor. I have published **100+ papers** in top journals and conferences, including:  
+**IEEE TNNLS, IEEE TIP, IEEE GRSL, IEEE SPL**, and **ICML, AAAI, IJCAI, ICCV, CVPR, ICASSP**, etc.  
+I have **led 3 NSFC projects** (National Natural Science Foundation of China), and many provincial/ministerial & industrial projects. I also serve as a reviewer for many leading journals, including **IEEE TIP, IEEE TNNLS, IEEE TII, IEEE TMM, Neural Networks, Neurocomputing**, etc.  
+Member of **ACM, CCF, IEEE**.
 
 
-Join us
+
+Working Experience
 ---
-<br />
-　　Our research group still has two academic doctoral places (application examination system), the research interests include large model, embodied intelligence (intelligent robot), etc. Please contact me via email for interested students mingkuitan@scut.edu.cn.
+- **Feb. 2022 – Present**  
+  Professor, School of Electronic and Information Engineering, South China University of Technology  
+- **Sep. 2018 – Jan. 2021**  
+  Professor, School of Mathematics, South China University of Technology  
+- **Nov. 2018 – Nov. 2019**  
+  Visiting Scholar (CSC-funded), Data Science Institute, Columbia University, USA  
+- **Aug. 2018 – Sep. 2018**  
+  Research Scientist (Visiting), CMVS, University of Oulu, Finland  
+- **Jul. 2017 – Sep. 2017**  
+  Visiting Scholar, Data Science Institute, Columbia University, USA  
+- **Jul. 2016 – Aug. 2018**  
+  Associate Professor, School of Mathematics, South China University of Technology  
+- **Apr. 2013 – Jul. 2016**  
+  Associate Professor, School of Information Science and Technology, Xiamen University  
+- **Feb. 2010 – Mar. 2013**  
+  Postdoc & Associate Researcher (promoted 2011), School of Electronic and Information Engineering, South China University of Technology
 
 
 Conferences
