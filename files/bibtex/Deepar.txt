@@ -1,0 +1,10 @@
+@article{li2024deepar,
+  title={DeepAR-Attention probabilistic prediction for stock price series},
+  author={Li, Jiacheng and Chen, Wei and Zhou, Zhiheng and Yang, Junmei and Zeng, Delu},
+  journal={Neural Computing and Applications},
+  volume={36},
+  number={25},
+  pages={15389--15406},
+  year={2024},
+  publisher={Springer}
+}
