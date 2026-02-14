@@ -2,7 +2,7 @@
 title: "EVODiff: Entropy-aware Variance Optimized Diffusion Inference"
 collection: conferences
 permalink: /publication/Evodiff
-date: 2025-01-01
+date: 2025-12-01
 year: "2025"
 venue: "NeurIPS"
 city: 
