@@ -1,0 +1,7 @@
+@article{li2025generative,
+  title={Generative Self-Supervised Time Series Forecasting Leveraging Wavelet Diffusion},
+  author={Li, Jiacheng and Chen, Wei and Liu, Yican and Yang, Junmei and Zhou, Zhiheng and Zeng, Delu},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+}
