@@ -1,0 +1,8 @@
+@article{chen2025entropy,
+  title={Entropy-informed weighting channel normalizing flow for deep generative models},
+  author={Chen, Wei and Du, Shian and Li, Shigui and Zeng, Delu and Paisley, John},
+  journal={Pattern Recognition},
+  pages={112442},
+  year={2025},
+  publisher={Elsevier}
+}
