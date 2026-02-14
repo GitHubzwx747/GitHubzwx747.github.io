@@ -1,0 +1,7 @@
+@inproceedings{du2022flow,
+  title={To-flow: Efficient continuous normalizing flows with temporal optimization adjoint with moving speed},
+  author={Du, Shian and Luo, Yihong and Chen, Wei and Xu, Jian and Zeng, Delu},
+  booktitle={proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={12570--12580},
+  year={2022}
+}
