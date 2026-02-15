@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Ddvi.png"
 teaser: 
-authors: "Jian Xu, Delu Zeng, John Paisley"
+authors: "Jian Xu, **Delu Zeng**, John Paisley"
 bibtex: Ddvi.txt
 uri: Ddvi.pdf
 supp: 
