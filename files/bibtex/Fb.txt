@@ -1,0 +1,9 @@
+@article{xu2025fully,
+  title={Fully Bayesian differential Gaussian processes through stochastic differential equations},
+  author={Xu, Jian and Lin, Zhiqi and Chen, Min and Yang, Junmei and Zeng, Delu and Paisley, John},
+  journal={Knowledge-Based Systems},
+  volume={314},
+  pages={113187},
+  year={2025},
+  publisher={Elsevier}
+}
