@@ -1,0 +1,10 @@
+@article{xu2024neural,
+  title={Neural operator variational inference based on regularized stein discrepancy for deep Gaussian processes},
+  author={Xu, Jian and Du, Shian and Yang, Junmei and Ma, Qianli and Zeng, Delu},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={36},
+  number={4},
+  pages={6723--6737},
+  year={2024},
+  publisher={IEEE}
+}
