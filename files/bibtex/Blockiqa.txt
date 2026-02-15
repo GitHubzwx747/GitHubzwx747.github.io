@@ -1,0 +1,7 @@
+@inproceedings{pang2025blockiqa,
+  title={BlockIQA: Local Sensitivity-Enhanced Blind Image Quality Assessment through Deep Block Analysis},
+  author={Pang, Yuqi and Liu, Yican and Lin, Zhiqi and Zeng, Delu},
+  booktitle={Proceedings of the 2025 International Conference on Multimedia Retrieval},
+  pages={1054--1062},
+  year={2025}
+}
