@@ -1,0 +1,6 @@
+@article{xu2024variational,
+  title={Variational learning of Gaussian process latent variable models through stochastic gradient annealed importance sampling},
+  author={Xu, Jian and Du, Shian and Yang, Junmei and Ma, Qianli and Zeng, Delu},
+  journal={arXiv preprint arXiv:2408.06710},
+  year={2024}
+}
