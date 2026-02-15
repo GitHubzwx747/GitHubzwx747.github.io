@@ -7,7 +7,7 @@ year: "2024"
 venue: "AAAI"
 city: 
 state: ""
-thumbnail: ""
+thumbnail: "SparseStudentT.png"
 teaser: 
 authors: "Jian Xu, **Delu Zeng**"
 bibtex: SparseStudentT.txt
