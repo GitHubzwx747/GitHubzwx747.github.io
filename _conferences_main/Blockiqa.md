@@ -10,7 +10,7 @@ state: ""
 thumbnail: "Blockiqa.png"
 teaser: 
 authors: "Yuqi Pang, Yican Liu, Zhiqi Li，**Delu Zeng**"
-bibtex: Blockiqa.bib
+bibtex: Blockiqa.txt
 uri: Blockiqa.pdf
 supp: 
 arxiv: 
