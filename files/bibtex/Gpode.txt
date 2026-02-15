@@ -1,0 +1,6 @@
+@inproceedings{xu2025bayesian,
+  title={Bayesian gaussian process odes via double normalizing flows},
+  author={Xu, Jian and Du, Shian and Yang, Junmei and Ding, Xinghao and Zeng, Delu and Paisley, John},
+  booktitle={The 28th International Conference on Artificial Intelligence and Statistics},
+  year={2025}
+}
